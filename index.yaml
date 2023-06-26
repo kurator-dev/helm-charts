@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  cluster-operator:
+  - apiVersion: v2
+    appVersion: 0.4.0-rc.0
+    created: "2023-06-26T09:07:24.512845274Z"
+    description: A Helm chart for kurator cluster operator
+    digest: a3c9acc12bdc54d972c3fc76978d9f7690297e8f3c3e3dab7a55db53d61d40a8
+    name: cluster-operator
+    type: application
+    urls:
+    - https://github.com/kurator-dev/helm-charts/releases/download/cluster-operator-0.4.0-rc.0/cluster-operator-0.4.0-rc.0.tgz
+    version: 0.4.0-rc.0
+  fleet-manager:
+  - apiVersion: v2
+    appVersion: 0.4.0-rc.0
+    created: "2023-06-26T09:07:24.677382659Z"
+    description: A Helm chart for kurator fleet manager
+    digest: 34e4e31d02f9c1035f4190ea3e038e0d46531f9cc7e9a12bcf43407fa7a6f095
+    name: fleet-manager
+    type: application
+    urls:
+    - https://github.com/kurator-dev/helm-charts/releases/download/fleet-manager-0.4.0-rc.0/fleet-manager-0.4.0-rc.0.tgz
+    version: 0.4.0-rc.0
+generated: "2023-06-26T09:07:24.677387759Z"
